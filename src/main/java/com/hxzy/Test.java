@@ -6,7 +6,7 @@ public class Test {
 
 		System.out.println("tom");
 
-		System.out.println("mike");
+		System.out.println("yy");
 
 	}
 
